@@ -29,3 +29,15 @@ I made adaptations so that the application was functional for those who wanted t
 > ### 1.1.3 Technologies used.
 > - Java
 > - MySql
+
+> ### 2.0 Application Interface
+> - The first screen will be the initial screen as soon as you open the application, containing its categories and their respective tasks, being able to perform some interactions with your tasks. <br />
+> <a href="https://raw.githubusercontent.com/josevitorps/OrganizerProject/master/src/main/resources/main%20interface.png?token=GHSAT0AAAAAABXBQJ7DDM2LLZ3YBH7ESJCWYXSVFWQ">Main interface</a>
+
+> ### 2.1 
+> - The second window will be opened by clicking on the "+" icon next to the category, and in it you will find 2 simple fields, one mandatory and the other not. <br />
+>  <a href="https://raw.githubusercontent.com/josevitorps/OrganizerProject/master/src/main/resources/category%20interface.png?token=GHSAT0AAAAAABXBQJ7DK4W54U4EQJQST75EYXSVFMA">Category interface</a>
+
+> ### 2.2
+> - And finally, the last window can only be opened after creating a category, since every task must belong to a category, as explained earlier. In this new window you will find 4 fields to be filled in or not (some are mandatory). <br />
+> <a href="https://raw.githubusercontent.com/josevitorps/OrganizerProject/master/src/main/resources/task%20interface.png?token=GHSAT0AAAAAABXBQJ7DZEJ2E3SUHSGN6NS6YXSVGNA">Task interface</a>
